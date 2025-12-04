@@ -1,0 +1,5 @@
+{
+  "name": "CineGen AI",
+  "description": "Generate short cinematic scenes with voiceovers using Gemini Veo and TTS models.",
+  "requestFramePermissions": []
+}
